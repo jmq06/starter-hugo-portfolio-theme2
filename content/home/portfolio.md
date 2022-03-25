@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: SQL
+      tag: SQL
+    - name: Convolutional Neural Networks
+      tag: CNN
 
 design:
   columns: '1'
