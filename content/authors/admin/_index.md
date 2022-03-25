@@ -83,4 +83,4 @@ Jamie Quinn is a research scientist in the Florida Center for Reading Research a
 
 She is a current student in the Interdisciplinary Data Science Masters Program as a Computer Science Major at FSU.
 
-{{< icon name="download" pack="fas" >}} {{<staticref "resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{<staticref "/uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
