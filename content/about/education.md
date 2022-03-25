@@ -25,7 +25,7 @@ experience:
   - title: MS Interdisciplinary Data Science
     company: Florida State University
     company_url: ''
-    company_logo: fsu
+    company_logo: 
     location: Tallahassee, FL
     date_start: '2021-08-31'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: PhD Developmental Psychology
     company: Florida State University
     company_url: ''
-    company_logo: fsu
+    company_logo: 
     location: Tallahassee, FL
     date_start: '2013-01-01'
     date_end: '2016-08-31'
@@ -45,7 +45,7 @@ experience:
   - title: MS Developmental Psychology
     company: Florida State University
     company_url: ''
-    company_logo: fsu
+    company_logo: 
     location: Tallahassee, FL
     date_start: '2010-08-31'
     date_end: '2012-12-31'
@@ -55,7 +55,7 @@ experience:
   - title: BS Psychology, Statistics Minor
     company: Florida State University
     company_url: ''
-    company_logo: fsu
+    company_logo: 
     location: Tallahassee, FL
     date_start: '2006-08-31'
     date_end: '2010-05-01'
