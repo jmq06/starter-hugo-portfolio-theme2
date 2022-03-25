@@ -22,26 +22,47 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: MS Interdisciplinary Data Science
+    company: Florida State University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    company_logo: fsu
+    location: Tallahassee, FL
+    date_start: '2021-08-31'
+    date_end: ''
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Computer Science Focus
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: PhD Developmental Psychology
+    company: Florida State University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: fsu
+    location: Tallahassee, FL
+    date_start: '2013-01-01'
+    date_end: '2016-08-31'
+    description: |2-
+        * Dissertation published in Child Development
+
+  - title: MS Developmental Psychology
+    company: Florida State University
+    company_url: ''
+    company_logo: fsu
+    location: Tallahassee, FL
+    date_start: '2010-08-31'
+    date_end: '2012-12-31'
+    description: |2-
+        * Master's Thesis published in Child Development
+
+  - title: BS Psychology, Statistics Minor
+    company: Florida State University
+    company_url: ''
+    company_logo: fsu
+    location: Tallahassee, FL
+    date_start: '2006-08-31'
+    date_end: '2010-05-01'
+    description: |2-
+        * Magna Cum Laude, With Honors
+        * Undergraduate thesis published in The Journal of Learning Disabilities
+
 
 design:
   columns: '1'
