@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Jamie Quinn
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,28 +14,35 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  Dr. Quinn is a research scientist in the Florida Center for Reading
+  Research at Florida State University.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+  - Psychometrics
+  - Longitudinal Modeling
+  - Structural Equation Modeling
+  - Machine Learning
+  - Database Management
+  - Rstats Python & MySQL
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+    - course: MS in Interdisciplinary Data Science
+      institution: Florida State University
+      year: 2024
+    - course: PhD in Developmental Psychology
+      institution: Florida State University
+      year: 2016
+    - course: MS in Developmental Psychology
+      institution: Florida State University
+      year: 2012
+    - course: BS in Psychology; Minor in Statistics
+      institution: Florida State University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,17 +51,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/latentchange
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=jlS16TIAAAAJ&hl=en
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/jmq06
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jamie-quinn/
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jmq06
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +79,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jamie Quinn is a research scientist in the Florida Center for Reading Research at Florida State University. She currently serves as data manager and data analyst for the [Reach Every Reader project ](https://reacheveryreader.gse.harvard.edu/)funded by the Chan Zuckerberg Initiative and a methodologist for the [Quantitative Methodology and Innovation Division](qmi.fsu.edu) at FCRR.  Before joining FCRR in 2017, she was a Postdoctoral Research Fellow at The University of Texas at Austin in the Meadows Center for Preventing Educational Risk. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She is a current student in the Interdisciplinary Data Science Masters Program as a Computer Science Major at FSU.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
