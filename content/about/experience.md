@@ -22,28 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Faculty I
+    company: Florida State University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo:
+    location: Florida
+    date_start: '2018-04-20'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Lead analyst on the Reach Every Reader Project
+        * Data wrangling and management 
+        * Estimating and deploying computerized adaptive testing models
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral Research Scholar
+    company: Florida State University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Floirda
+    date_start: '2017-09-01'
+    date_end: '2018-04-19'
+    description: Postdoctoral researcher in the Florida Center for Reading Research
+  - title: Postdoctoral Research Fellow
+    company: The University of Texas at Austin
+    company_url: ''
+    company_logo:
+    location: Austin, TX
+    date_start: '2016-09-01'
+    date_end: '2017-08-31'
+    description: Postdoctoral Researcher in the Meadows Center for Preventing Educational Risk
 
 design:
   columns: '1'
