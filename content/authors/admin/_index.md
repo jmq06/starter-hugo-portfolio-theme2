@@ -29,21 +29,6 @@ interests:
   - Database Management
   - Rstats Python & MySQL
 
-education:
-  courses:
-    - course: MS in Interdisciplinary Data Science
-      institution: Florida State University
-      year: 2024
-    - course: PhD in Developmental Psychology
-      institution: Florida State University
-      year: 2016
-    - course: MS in Developmental Psychology
-      institution: Florida State University
-      year: 2012
-    - course: BS in Psychology; Minor in Statistics
-      institution: Florida State University
-      year: 2010
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
