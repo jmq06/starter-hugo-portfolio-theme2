@@ -40,7 +40,7 @@ experience:
     date_start: '2013-01-01'
     date_end: '2016-08-31'
     description: |2-
-        * Dissertation published in Child Development
+        * Dissertation published in [Child Development](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.13049)
 
   - title: MS Developmental Psychology
     company: Florida State University
@@ -50,7 +50,8 @@ experience:
     date_start: '2010-08-31'
     date_end: '2012-12-31'
     description: |2-
-        * Master's Thesis published in Child Development
+        * Master's Thesis published in [Child Development](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.12292)
+
 
   - title: BS Psychology, Statistics Minor
     company: Florida State University
@@ -61,7 +62,7 @@ experience:
     date_end: '2010-05-01'
     description: |2-
         * Magna Cum Laude, With Honors
-        * Undergraduate thesis published in The Journal of Learning Disabilities
+        * Undergraduate thesis published in [The Journal of Learning Disabilities](https://journals.sagepub.com/doi/abs/10.1177/0022219413508323)
 
 
 design:
