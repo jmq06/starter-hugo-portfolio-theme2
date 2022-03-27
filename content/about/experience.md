@@ -26,7 +26,7 @@ experience:
     company: Florida State University
     company_url: ''
     company_logo:
-    location: Florida
+    location: Tallahassee, FL
     date_start: '2018-04-20'
     date_end: ''
     description: |2-
@@ -40,7 +40,7 @@ experience:
     company: Florida State University
     company_url: ''
     company_logo: 
-    location: Floirda
+    location: Tallahassee, FL
     date_start: '2017-09-01'
     date_end: '2018-04-19'
     description: Postdoctoral researcher in the Florida Center for Reading Research
