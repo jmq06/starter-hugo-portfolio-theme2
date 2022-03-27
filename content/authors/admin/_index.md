@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😺
 
 # Organizations/Affiliations
 #organizations:
@@ -27,7 +27,7 @@ bio:  Dr. Quinn is a research scientist in the Florida Center for Reading
 #  - Structural Equation Modeling
 #  - Machine Learning
 #  - Database Management
-#  - Rstats Python & MySQL
+#  - R, Python, & MySQL
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
