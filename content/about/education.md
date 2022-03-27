@@ -40,7 +40,7 @@ experience:
     date_start: '2013-01-01'
     date_end: '2016-08-31'
     description: |2-
-        * Dissertation published in [Child Development](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.13049)
+        * Dissertation published in [Child Development](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.13049). Download a copy {{< icon name="download" pack="fas" >}} {{<staticref "/uploads/cd_dissertation.pdf" "newtab" >}}here{{< /staticref >}}.
 
   - title: MS Developmental Psychology
     company: Florida State University
@@ -50,7 +50,7 @@ experience:
     date_start: '2010-08-31'
     date_end: '2012-12-31'
     description: |2-
-        * Master's Thesis published in [Child Development](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.12292)
+        * Master's Thesis published in [Child Development](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.12292). Download a copy {{< icon name="download" pack="fas" >}} {{<staticref "/uploads/cd_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
 
 
   - title: BS Psychology, Statistics Minor
@@ -62,7 +62,7 @@ experience:
     date_end: '2010-05-01'
     description: |2-
         * Magna Cum Laude, With Honors
-        * Undergraduate thesis published in [The Journal of Learning Disabilities](https://journals.sagepub.com/doi/abs/10.1177/0022219413508323)
+        * Undergraduate thesis published in [The Journal of Learning Disabilities](https://journals.sagepub.com/doi/abs/10.1177/0022219413508323). Download a copy {{< icon name="download" pack="fas" >}} {{<staticref "/uploads/jld_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
 
 
 design:
