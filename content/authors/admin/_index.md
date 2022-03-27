@@ -21,13 +21,13 @@ status:
 bio:  Dr. Quinn is a research scientist in the Florida Center for Reading
   Research at Florida State University.
 
-interests:
-  - Psychometrics
-  - Longitudinal Modeling
-  - Structural Equation Modeling
-  - Machine Learning
-  - Database Management
-  - Rstats Python & MySQL
+#interests:
+#  - Psychometrics
+#  - Longitudinal Modeling
+#  - Structural Equation Modeling
+#  - Machine Learning
+#  - Database Management
+#  - Rstats Python & MySQL
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
